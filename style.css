@@ -2,3 +2,12 @@ h1 {
   text-align: center;
   color: blue;
 }
+button {
+  display: block;
+  margin: 0 auto;
+  padding: 10px 12px;
+  color: #fff;
+  background-color: blueviolet;
+  border-radius: 7px;
+  border: 1px solid #af4bc5;
+}
